@@ -1,0 +1,7 @@
+bin
+build
+.vscode
+instructions.txt
+spiffs.bin
+sdkconfig.old
+sdkconfig
